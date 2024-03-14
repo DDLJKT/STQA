@@ -1,0 +1,19 @@
+Test Plan According to IEEE 829
+
+1. Test Plan Identifier
+2. Introduction
+3. Test Items
+4. Features to be Tested
+5.Features Not to be Tested
+6. Test Approach or Strategy
+7. Acceptance Criteria
+8. Suspension Criteria and Resumption Requirements
+9. Test Deliverables
+10. Testing Tasks
+11. Environmental Needs and Test Infrastructure
+12. Responsibilities
+13. Staffing and Training Needs
+14. Schedule
+15. Risks and Contingencies
+16. Approvals
+17. Glossary
